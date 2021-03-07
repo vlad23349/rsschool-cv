@@ -1,5 +1,6 @@
 Vladislav Kolesnik
 ==================
+
 ------------------------      ---------------------------------------------------------
 
 ## CONTACTS
@@ -18,6 +19,7 @@ Programming always was my hobby.But now i realize that i want it to become my pr
 * Self-motivated and hardworking
 * Fast learner
 * I love programming
+* Always positive
 ------------------------      ---------------------------------------------------------
 
 ## SKILLS
