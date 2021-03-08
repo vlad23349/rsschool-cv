@@ -1,3 +1,8 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+}
 body{
     font-family: 'Stick', sans-serif;
 }
@@ -10,7 +15,7 @@ section{
 }
 img{
     width: 100%;
-    border-radius: 40px;
+    
 }
 .header{
     display: flex;
@@ -20,4 +25,26 @@ img{
     width:200px;
     height:200px;
     
+}
+.avatar img{
+    border-radius: 30px;
+}
+.headerText p{
+    background-color: #d6d6e0;
+    text-align: center;
+}
+.codeExample figure{
+    width: 700px;
+}
+footer{
+    height: 100px;
+    background-color: #eee;
+    display: flex;
+    justify-content:space-evenly;
+}
+footer figure{
+    width: 100px;
+}
+.gh img{
+    width:60%;
 }
