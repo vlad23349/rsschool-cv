@@ -5,7 +5,7 @@ Vladislav Kolesnik
 
 ## CONTACTS
 
-- **Telephone:** +375(25) 926-61-85
+- **Telephone:** +375(29) 949-91-38
 - **E-mail:** <vlad.kolesnik.99@list.ru>
 - **Telegram:** [t.me/vlad23349](https://t.me/vlad23349)
 - **Discord:** @asda#9904
