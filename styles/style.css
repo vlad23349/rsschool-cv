@@ -48,3 +48,6 @@ footer figure{
 .gh img{
     width:60%;
 }
+.mnemonic{
+  content:\0026;
+}
