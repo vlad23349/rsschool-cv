@@ -49,5 +49,5 @@ footer figure{
     width:60%;
 }
 .mnemonic{
-  content:\0026;
+  content:'\0026';
 }
